@@ -39,10 +39,11 @@ for (int st = 0 ; st < n ; st++) {
 
 📝 Example Output
 For an array {1, 2, 3, 4, 5}:
-
-Plaintext
+O/P 
+```
 1 12 123 1234 12345 
 2 23 234 2345 
 3 34 345 
 4 45 
 5 
+```
